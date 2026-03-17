@@ -2,7 +2,7 @@
 
 A 2,040 mile journey from Independence, Missouri to Oregon's Willamette Valley — 1848.
 
-[Play Now](https://aria-nexus.github.io/ARIA/oregon-trail/)
+[Play Now](https://vrtra-11.github.io/Vrtra/oregon-trail/)
 
 ## How to Play
 - Choose your profession (Banker, Carpenter, or Farmer)

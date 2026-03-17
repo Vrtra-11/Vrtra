@@ -2,7 +2,7 @@
 
 A classic Flappy Bird clone — tap, click, or press Space to flap.
 
-[Play Now](https://aria-nexus.github.io/ARIA/flappy-bird/)
+[Play Now](https://vrtra-11.github.io/Vrtra/flappy-bird/)
 
 ## How to Play
 - Click, tap, or press Space/Up Arrow to flap

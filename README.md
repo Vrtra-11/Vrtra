@@ -1,6 +1,6 @@
-# ARIA Games
+# Vrtra Games
 
 Play directly in your browser — no download needed.
 
-- [Flappy Bird](https://aria-nexus.github.io/ARIA/flappy-bird/)
-- [The Oregon Trail](https://aria-nexus.github.io/ARIA/oregon-trail/)
+- [Flappy Bird](https://vrtra-11.github.io/Vrtra/flappy-bird/)
+- [The Oregon Trail](https://vrtra-11.github.io/Vrtra/oregon-trail/)
